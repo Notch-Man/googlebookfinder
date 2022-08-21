@@ -1,5 +1,5 @@
 import React from "react";
-import { Row, Col, Button, Card, Ratio } from "react-bootstrap";
+import { Row, Col, Button, Card } from "react-bootstrap";
 
 const BookItem = ({ title, thumbnail, authors, infoLink, publishedDate }) => {
   return (
